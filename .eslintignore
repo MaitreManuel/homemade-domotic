@@ -1,0 +1,16 @@
+# path/to/project/root/.eslintignore
+# /node_modules/* and /bower_components/* in the project root are ignored by default
+
+# ignore lib not installed with npm
+assets/modules_static/bootstrap/bootstrap.js
+assets/modules_static/bootstrap-datepicker/bootstrap-datepicker.js
+assets/modules_static/bootstrap-select/bootstrap-select.js
+assets/modules_static/bootstrap-typeahead/bootstrap-typeahead.js
+assets/modules_static/fullcalendar/fullcalendar.js
+assets/modules_static/fullcalendar/gcal.js
+assets/modules_static/jquery-flip/jquery-flip.js
+assets/modules_static/jquery-maskedinput/jquery.maskedinput.js
+assets/modules_static/jquery-select2/*
+assets/modules_static/jquery-ui/jquery-ui.js
+assets/modules_static/jquery-validate/jquery.validate.js
+assets/modules_static/jquery-validate/additional-methods.js
